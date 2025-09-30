@@ -1,10 +1,6 @@
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
   </head>
   <body>
-    <div class="wrapper">
       <header>
         <h1>Dr Diana Rafailova</h1>
         <p>Postdoc at the Center for East European and International Studies (Berlin), Senior Fellow at SCRIPTS, FU </p>
