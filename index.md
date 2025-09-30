@@ -24,7 +24,6 @@
 
         <p>My interests include political regimes, authoritarian attitudinal legacies, and political attitudes </p>
         
-        <p>My CV <a href="" title="">...</a> 
       </section>
       <footer>
        
