@@ -13,6 +13,6 @@
         <h1>Welcome </h1>
         <p>I obtained a PhD in Political and Social Sciences from the European University Institute in 2024. My dissertation was awarded the 2024 Linz-Rokkan Prize for the best EUI dissertation in political sociology. Currently, I am a postdoctoral researcher at the ERC-funded project "MoveMeRU" based at the Centre for East European and International Studies and a visiting senior fellow at SCRIPTS, Free University Berlin.</p>
 
-        <p>My interests include political regimes, authoritarian attitudinal legacies, and political attitudes </p>
+        <p>My interests include political regimes, authoritarian attitudinal legacies, and commitments to democracy at the individual level. My work draws on quantitative and qualitative data and takes a mixed-methods approach. In my dissertation, I relied on extensive time-series cross-sectional data and large-scale cross-national surveys to explore the effects of political regimes on school quality. Under the ERC-funded project  "MoveMeRU", I have been leading focus group data collection to investigate political socialization,  attitudes to democracy, and intergenerational transmission among Russian-background families in liberal democracy.  </p>
       
 </html>
